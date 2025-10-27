@@ -102,7 +102,9 @@ MIDDLEWARE = [
     'allauth.account.middleware.AccountMiddleware',
 ]
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",  # React frontend
+    "http://localhost:5173",
+      "https://agronepal.vercel.app",
+        # React frontend
 ]
 CORS_ALLOW_ALL_ORIGINS = True
 
