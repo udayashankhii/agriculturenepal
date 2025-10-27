@@ -28,7 +28,12 @@ SECRET_KEY = 'django-insecure-j*nyys_^hbanvi5nk67cc(iop6=x+c(2a2zp=m1^6d!@65s+09
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'agronepbackend.onrender.com',  # Add your Render web service domain
+    'localhost',
+    '127.0.0.1',
+]
+
 
 
 # Application definition
