@@ -4,5 +4,8 @@
   ],
   "routes": [
     { "src": "/(.*)", "dest": "manage.py" }
-  ]
+  ],
+  "env": {
+    "DISABLE_COLLECTSTATIC": "1"
+  }
 }
