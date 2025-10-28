@@ -9,6 +9,6 @@
     "DJANGO_SETTINGS_MODULE": "Agronepal.settings",
     "DISABLE_COLLECTSTATIC": "1",
     "DEBUG": "True",
-    "SECRET_KEY":"7fbp*5ek4+^^8#g&*3=ja0xf$l43fd#ig7i3jy0iwzdv_qirf6",
+    "SECRET_KEY":"7fbp*5ek4+^^8#g&*3=ja0xf$l43fd#ig7i3jy0iwzdv_qirf6"
   }
 }
